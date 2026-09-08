@@ -236,3 +236,6 @@ This repository serves as the official landing page for FolderSizes. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of FolderSizes today!**
+
+---
+**Last updated:** 2026-09-08 20:46:53 UTC
