@@ -238,4 +238,4 @@ This repository serves as the official landing page for FolderSizes. The softwar
 **Get the most recent version of FolderSizes today!**
 
 ---
-**Last updated:** 2026-10-26 03:29:04 UTC
+**Last updated:** 2026-10-26 09:46:33 UTC
